@@ -99,5 +99,18 @@
             </objects>
             <point key="canvasLocation" x="304.5" y="415.5"/>
         </scene>
+        <!--View Controller-->
+        <scene sceneID="YQQ-8w-AAX">
+            <objects>
+                <viewController id="V4X-Z9-CK8" sceneMemberID="viewController">
+                    <mapView key="view" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" id="HY3-Hb-GW0">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    </mapView>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="3zk-0q-WWG" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="804" y="382"/>
+        </scene>
     </scenes>
 </document>
